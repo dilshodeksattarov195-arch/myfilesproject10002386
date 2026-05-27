@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderperify",
+        "uuid": 1314686,
+        "checksum": "30p8c4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
